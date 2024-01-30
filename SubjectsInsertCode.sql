@@ -1,0 +1,10 @@
+insert into subjects (name) values ('Ingliz tili');
+insert into subjects (name) values ('Matematika');
+insert into subjects (name) values ('Biologiya');
+insert into subjects (name) values ('Fizika');
+insert into subjects (name) values ('Geografiya');
+insert into subjects (name) values ('Rus tili');
+insert into subjects (name) values ('Ona tili');
+insert into subjects (name) values ('Tarix');
+insert into subjects (name) values ('Kimyo');
+insert into subjects (name) values ('Adabiyot');
